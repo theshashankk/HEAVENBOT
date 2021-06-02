@@ -7,7 +7,7 @@ _get_repolink () {
     if [[ $MAFIA_REPO == "mafiabot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0gxTTRONUhVMFAvTUFGSUEtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $MAFIA_REPO == "MAFIABOT" ]]
+    elif [[ $MAFIA_REPO == "HEAVENBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0gxTTRONUhVMFAvTUFGSUEtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $MAFIA_REPO =~ $regex ]]
