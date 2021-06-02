@@ -9,8 +9,8 @@
 # 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![HEAVENBOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+HEAVENBOT made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/HEAVENBOT_Support THANKS FOR VISITING OUR REPO💖
+[![HEAVENBOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/HEAVENBOT_Support)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -19,7 +19,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P.
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN HEAVENBOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/HEAVENBOT_Support">☢️JOIN HEAVENBOT SUPPORT☢️</a></h2>
 
 </details>
 
