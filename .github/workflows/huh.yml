@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: "MAFIABOT"
+          find: "MafiaBot"
 
           replace: "HEAVENBOT"
 
