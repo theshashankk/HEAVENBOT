@@ -6,7 +6,7 @@
 
 
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+# 𝚃𝙷𝙴 HEAVENBOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 HEAVENBOT made by @ViLLAiN_V01. Supported by respective Mafiabot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/HEAVENBOT_Support THANKS FOR VISITING OUR REPO💖
