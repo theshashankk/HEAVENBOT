@@ -41,7 +41,7 @@ HEAVENBOT made by @ViLLAiN_V01. Supported by respective Mafiabot owner . Join fo
 
 
   <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
+<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 Javes 2 💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 </details>
