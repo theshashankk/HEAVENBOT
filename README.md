@@ -18,7 +18,7 @@ HEAVENBOT made by @ViLLAiN_V01. Supported by respective Mafiabot owner . Join fo
 
 <details>
 
-  <summary> • FOR ANY QUERY • </summary>
+ FOR ANY QUERY
 <h2 align="center"> <a href="https://t.me/HEAVENBOT_Support">☢️JOIN HEAVENBOT SUPPORT☢️</a></h2>
 
 </details>
