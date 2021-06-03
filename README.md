@@ -16,7 +16,7 @@ HEAVENBOT made by @ViLLAiN_V01. Supported by respective Mafiabot owner . Join fo
 # The owner would not be responsible for any kind of bans due to the bot...
 
 
-<details>
+
 
  FOR ANY QUERY
 <h2 align="center"> <a href="https://t.me/HEAVENBOT_Support">☢️JOIN HEAVENBOT SUPPORT☢️</a></h2>
