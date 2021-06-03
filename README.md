@@ -9,7 +9,7 @@
 # 𝚃𝙷𝙴 HEAVENBOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-HEAVENBOT made by @ViLLAiN_V01. Supported by respective Mafiabot owner . Join for update related info channel and group :- https://t.me/HEAVENBOT_Support THANKS FOR VISITING OUR REPO💖
+HEAVENBOT made by @ViLLAiN_V01. Supported by respective Javes 2 owner. Join for update related info channel and group :- https://t.me/HEAVENBOT_Support THANKS FOR VISITING OUR REPO💖
 [![HEAVENBOT LOGO](https://telegra.ph//file/7079653d0956dd98fb301.jpg)](https://t.me/HEAVENBOT_Support)
 
 
