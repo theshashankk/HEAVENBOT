@@ -26,7 +26,7 @@ HEAVENBOT made by @ViLLAiN_V01. Supported by respective Mafiabot owner . Join fo
 
 # FORK AT YOUR OWN RISK
 
-<details>
+
 
   <summary> • INSTALLING • </summary>
 
@@ -38,7 +38,7 @@ HEAVENBOT made by @ViLLAiN_V01. Supported by respective Mafiabot owner . Join fo
 
 </details>
 
-<details>
+
 
   <summary> • CREDITS👀 • </summary>
 <h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
@@ -46,7 +46,7 @@ HEAVENBOT made by @ViLLAiN_V01. Supported by respective Mafiabot owner . Join fo
 
 </details>
 
-<details>
+
 
   <summary> • THE NORMAL WAY • </summary>
 
@@ -77,7 +77,7 @@ class Development(Var):
 
 </details>
 
-<details>
+
 
   <summary> • UNIBORG CONFIGURATION • </summary>
 
@@ -91,7 +91,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 </details>
 
-<details>
+
 
   <summary> • MANDATORY VARS • </summary>
 
@@ -104,7 +104,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 </details>
 
-<details>
+
 
   <summary> • LICENSE • </summary>
 
