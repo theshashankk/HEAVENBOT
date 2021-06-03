@@ -52,7 +52,7 @@ HEAVENBOT made by @ViLLAiN_V01. Supported by respective Mafiabot owner . Join fo
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIA-BOT.git
+git clone https://github.com/VILLAIN-V01/HEAVENBOT.git
 cd MAFIA-BOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -110,9 +110,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 VILLAIN-V01
 
-Poject [HEAVENBOT](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
+Poject [HEAVENBOT](https://github.com/VILLAIN-V01/HEAVENBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
