@@ -23,17 +23,17 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@HEAVENBOT_Support",
+      "description": "Fill your Full name or Username like @ViLLAiN_V01. By default it is Heaven User",
+      "value": "HEAVENBOT User",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
+      "description": "Set Custom Alive Message When entering .heaven Command.",
       "value": "😈HEAVENBOT IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
+      "description": "Put here any telegraph media link for alive pic in .heaven command.",
       "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
       "required": false
     },
