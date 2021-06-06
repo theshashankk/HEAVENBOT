@@ -42,6 +42,7 @@ HEAVENBOT made by @ViLLAiN_V01. Supported by respective ASTEROID owner. Join for
 
   <summary> • CREDITS👀 • </summary>
 <h2 align="center"> <a href="https://github.com/TEAMROYAL/Asteroid">⚡ ASTEROID ⚡</a></h2>
+"https://github.com/Javes786/javes-2.0">⚜️ Javes 2 ⚜️<
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 </details>
