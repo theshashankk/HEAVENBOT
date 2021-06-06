@@ -107,7 +107,7 @@
        "value": "-1001174481876"
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/HEAVENBOT#main.py ",
+      "description": "Get this value by running https://replit.com/@VILLAINV01/HEAVENBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@HEAVEN_PUBLIC_bot"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
